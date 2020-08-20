@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">instaLogIn</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">r7LghPuWh1GAFJsfPlKZ8K1r5dS88sPp1sHak6dJ</string>
+    <string name="back4app_client_key">z3wusCYdtHDmNtHm6pxjmepYdi3OCEAy9bsyFOPP</string>
+</resources>
